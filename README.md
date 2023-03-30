@@ -9,7 +9,7 @@ I'm currently working on Legal Skillset Database System
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Knsch&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Knsch&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Knsch&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
